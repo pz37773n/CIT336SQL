@@ -1,0 +1,4 @@
+
+SELECT * FROM `games` WHERE genres = "adventure"
+UPDATE length SET hours = "10" WHERE name = "Witcher";
+UPDATE employer SET first = "Paul", last = "Josh" WHERE Company ="Google";
